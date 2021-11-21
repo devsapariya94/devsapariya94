@@ -1,1 +1,1 @@
-# Hey <img src="/img/wave.gif" alt="hand wave" width="29">
+# Hey <img src="/img/hi.gif" alt="hand wave" width="29">
