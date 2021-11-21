@@ -1,1 +1,1 @@
-# Hey ![hii](/img/wave.gif =30x30)
+# Hey <img src="/img/wave.gif" alt="hand wave" width="29">
