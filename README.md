@@ -1,5 +1,2 @@
-# Hey <img src="/img/hi.gif" alt="hand wave" width="29">, I'm 
-<!-- # [<img src="/img/linkedin.svg" width="35" height="35">]("https://linkedin.com/in/devsapariya94")
- -->
-
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+# Hey <img src="/img/hi.gif" alt="hand wave" width="29">, I'm [Dev](https://github.com/devsapariya94)
+# [<img src="/img/linkedin.svg">](https://linkedin.com/in/devsapariya94) [<img src="/img/twitter.png">](https://twitter.com/devsapariya94) [<img src="/img/instagram.png">](https://instagram.com/devsapariya94)
