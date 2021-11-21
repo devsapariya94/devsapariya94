@@ -1,1 +1,1 @@
-# Hey ![hii](/blob/main/img/wave.gif)
+# Hey ![hii](/img/wave.gif)
