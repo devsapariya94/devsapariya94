@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Sapariya</h1>
 <h3 align="center">A Student of Computer Engineering from India</h3>
 
-- 🔭 I’m currently working on [A Blog Website](https://github.com/devsapariya94/blog-website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
