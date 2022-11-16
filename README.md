@@ -15,8 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsapariya94&show_icons=true&locale=en&layout=compact" alt="devsapariya94" /></p>
 
-[![@devsapariya94's Holopin board](https://holopin.me/devsapariya94)](https://holopin.io/@devsapariya94)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsapariya94&show_icons=true&locale=en" alt="devsapariya94" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsapariya94&" alt="devsapariya94" /></p>
