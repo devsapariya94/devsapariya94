@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/devsapariya94" target="blank"><img src="https://img.shields.io/twitter/follow/devsapariya94?logo=twitter&style=for-the-badge" alt="devsapariya94" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devsapariya94?tab=repositories](https://github.com/devsapariya94?tab=repositories)
 
